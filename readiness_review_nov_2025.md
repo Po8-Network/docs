@@ -58,3 +58,4 @@ To enable Smart Contract deployment and Dapp usage, the following steps must be 
 Focus on **Phase 1, Step 1 & 2**: Unlock the EVM in the Core Node.
 
 
+
